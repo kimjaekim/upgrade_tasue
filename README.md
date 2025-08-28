@@ -1,13 +1,24 @@
-<<<<<<< HEAD
-# My React App
+# Tashu - 대전 공공자전거 서비스
 
-This is a simple React application that serves as a demonstration of a basic project structure.
+대전시 공공자전거 '타슈'의 웹 기반 대여 서비스 애플리케이션입니다.
 
-## Project Structure
+## 주요 기능
+
+- 실시간 대여소 조회
+- QR 코드를 통한 자전거 대여/반납
+- 내비게이션 기능
+- 라이딩 기록 관리
+
+## 프로젝트 구조
 
 ```
-my-react-app
-├── public
+my-react-app/
+├── public/           # 정적 파일
+├── src/              # 소스 코드
+│   ├── components/   # 재사용 컴포넌트
+│   ├── hooks/        # 커스텀 훅
+│   ├── pages/        # 페이지 컴포넌트
+│   └── utils/        # 유틸리티 함수
 │   └── index.html
 ├── src
 │   ├── App.js
