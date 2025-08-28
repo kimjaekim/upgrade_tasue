@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/upgrade_tasue/static/css/main.d8f37093.css",
+    "main.js": "/upgrade_tasue/static/js/main.fdbea95f.js",
+    "index.html": "/upgrade_tasue/index.html",
+    "main.d8f37093.css.map": "/upgrade_tasue/static/css/main.d8f37093.css.map",
+    "main.fdbea95f.js.map": "/upgrade_tasue/static/js/main.fdbea95f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8f37093.css",
+    "static/js/main.fdbea95f.js"
+  ]
+}

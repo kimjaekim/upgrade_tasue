@@ -1,0 +1,11 @@
+{
+  "name": "Tashu",
+  "short_name": "Tashu",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#16a34a",
+  "description": "대전 타슈 공공자전거 서비스 웹앱",
+  "lang": "ko-KR",
+  "icons": []
+}
