@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # My React App
 
 This is a simple React application that serves as a demonstration of a basic project structure.
@@ -49,3 +50,6 @@ To get started with this project, follow these steps:
 ## License
 
 This project is licensed under the MIT License.
+=======
+# upgrade_tasue
+>>>>>>> 10ba374dc3764c1dfa24ba853f272659fad2a26d
